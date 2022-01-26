@@ -2,7 +2,7 @@
 Sales Insights Data Analysis Project
 
 
-SQL database dump is in db_dump.sql file above. Download db_dump.sql file to your local computer and import it as per instructions given in the tutorial video
+SQL database dump is in db_dump.sql file above. Connect it to your Mysql Workbench
 
 Data Analysis Using SQL
 1.Show all customer records
